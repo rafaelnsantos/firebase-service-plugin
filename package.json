@@ -1,6 +1,6 @@
 {
   "name": "firebase-service-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "firebase service plugin for graphql-api-scripts",
   "main": "index.js",
   "types": "index.d.ts",

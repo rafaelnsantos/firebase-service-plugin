@@ -49,6 +49,6 @@ Set environment variables in `.env.dev` eg.:
 
 ```
 FIREBASE_PROJECT_ID="adasd"
-FIREBASE_PRIVATE_KEY_ID="-----BEGIN PRIVATE KEY-----\nasdasdasdadasd=\n-----END PRIVATE KEY-----\n"
+FIREBASE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nasdasdasdasdad==\n-----END PRIVATE KEY-----\n"
 FIREBASE_CLIENT_EMAIL="firebase-adminsdk-bmgz9@asdasdasdad.gserviceaccount.com"
 ```
